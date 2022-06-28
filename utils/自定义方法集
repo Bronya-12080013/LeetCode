@@ -1,0 +1,8 @@
+1.StringDfs
+方法permutation(String s) 可返回字符串s的全排列 形式为String[]
+
+2.时间.Time
+获取时间的各个方法
+
+3.降序排序.DescendingSort
+把int[]数组从大到小排列 两个方法都可以用
